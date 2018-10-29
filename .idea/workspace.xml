@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf7fa716-8736-4d59-9d73-3402b53a21a4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/company/programowanieobiektowe/Konstruktory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/programowanieobiektowe/ProgramowanieObiektowe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/programowanieobiektowe/ProgramowanieObiektowe.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,24 +27,26 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="10" />
+          <entry key="java" value="11" />
           <entry key="md" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="10" />
+          <entry key="JAVA" value="11" />
           <entry key="Markdown" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="720" />
+          <entry key="java" value="1185" />
+          <entry key="txt" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="720" />
+          <entry key="JAVA" value="1185" />
+          <entry key="PLAIN_TEXT" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -56,55 +58,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/programowanieobiektowe/ProgramowanieObiektowe.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/operatory/OperatoryArytmetyczne.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/operatory/OperatoryLogiczne.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="645">
-              <caret line="43" column="1" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/instrukcjeWarunkowe/IntrukcjeWarunkowe.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/instrukcjeWarunkowe/Switch.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="405">
+              <caret line="27" column="43" lean-forward="true" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/programowanieobiektowe/ProgramowanieObiektowe.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/programowanieobiektowe/Konstruktory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" lean-forward="true" selection-start-line="11" selection-end-line="29" />
+            <state relative-caret-position="180">
+              <caret line="12" column="37" lean-forward="true" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -145,6 +111,7 @@
         <option value="$PROJECT_DIR$/src/com/company/instrukcjeWarunkowe/Switch.java" />
         <option value="$PROJECT_DIR$/src/com/company/instrukcjeWarunkowe/WyrazeniaWarunkowe.java" />
         <option value="$PROJECT_DIR$/src/com/company/programowanieobiektowe/ProgramowanieObiektowe.java" />
+        <option value="$PROJECT_DIR$/src/com/company/programowanieobiektowe/Konstruktory.java" />
       </list>
     </option>
   </component>
@@ -170,6 +137,7 @@
     <panes>
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -199,13 +167,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540789556218" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540790311518" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -219,7 +186,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ProgramowanieObiektowe">
+  <component name="RunManager" selected="Application.Konstruktory">
+    <configuration name="Konstruktory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.programowanieobiektowe.Konstruktory" />
+      <module name="Udemy_Java_Od_Podstaw" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.programowanieobiektowe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="Udemy_Java_Od_Podstaw" />
@@ -274,9 +254,11 @@
       <item itemvalue="Application.Podstawy" />
       <item itemvalue="Application.Rzutowanie" />
       <item itemvalue="Application.ProgramowanieObiektowe" />
+      <item itemvalue="Application.Konstruktory" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Konstruktory" />
         <item itemvalue="Application.ProgramowanieObiektowe" />
         <item itemvalue="Application.Rzutowanie" />
         <item itemvalue="Application.Podstawy" />
@@ -297,18 +279,26 @@
       <workItem from="1540239621173" duration="4068000" />
       <workItem from="1540243749530" duration="10000" />
       <workItem from="1540707985198" duration="683000" />
-      <workItem from="1540789246702" duration="232000" />
+      <workItem from="1540789246702" duration="906000" />
     </task>
+    <task id="LOCAL-00001" summary="static metod">
+      <created>1540789611760</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1540789611770</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8893000" />
+    <option name="totallyTimeSpent" value="9567000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1035" y="60" width="876" height="999" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24156693" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24096386" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -326,7 +316,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Messages" order="11" visible="true" weight="0.3295063" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -343,6 +333,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="static metod" />
+    <option name="LAST_COMMIT_MESSAGE" value="static metod" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/podstawy/Podstawy.java">
@@ -425,8 +419,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/programowanieobiektowe/ProgramowanieObiektowe.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" lean-forward="true" selection-start-line="11" selection-end-line="29" />
+        <state relative-caret-position="405">
+          <caret line="27" column="43" lean-forward="true" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/programowanieobiektowe/Konstruktory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="37" lean-forward="true" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
         </state>
       </provider>
     </entry>
