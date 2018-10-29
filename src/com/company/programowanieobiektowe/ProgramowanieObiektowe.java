@@ -2,6 +2,11 @@ package com.company.programowanieobiektowe;
 
 public class ProgramowanieObiektowe{
 
+    int a;
+    private static void test(){
+        System.out.println("aaaaaaaaaa");
+    }
+
     public static void main(String[] args) {
 
         /*Obiekty - szbalony/pojemniki do przechowywania  zmiennych i funkcji tematycznie ze soba powiązanych
@@ -9,6 +14,8 @@ public class ProgramowanieObiektowe{
         * Klasy - formy do tworzenia egzempalrzy obiektów
         * Properties
         * Metody - funkcje*/
+
+        test();
 
         Monitor abc = new Monitor();
         abc.szerokosc = 124;
