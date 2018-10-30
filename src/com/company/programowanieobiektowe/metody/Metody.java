@@ -26,6 +26,10 @@ public class Metody {
 
         System.out.println(wynik3);
 
+        double wynik4 = a.dodaj(4.15, 24.165);
+
+        System.out.println(wynik4);
+
     }
 
 }
@@ -41,6 +45,10 @@ class Test{
 
     //ta metoda zwraca nam wartosc typu int
     int dodaj(int a, int b){
+        return a + b; //slowo return konczy metode
+    }
+
+    double dodaj(double a, double b){
         return a + b; //slowo return konczy metode
     }
 

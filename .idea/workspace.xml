@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf7fa716-8736-4d59-9d73-3402b53a21a4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/programowanieobiektowe/metody/Metody.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/programowanieobiektowe/Konstruktory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/programowanieobiektowe/Konstruktory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/programowanieobiektowe/metody/Metody.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/programowanieobiektowe/metody/Metody.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,14 +40,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1761" />
-          <entry key="txt" value="21" />
+          <entry key="java" value="1898" />
+          <entry key="txt" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1761" />
-          <entry key="PLAIN_TEXT" value="21" />
+          <entry key="JAVA" value="1898" />
+          <entry key="PLAIN_TEXT" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -62,8 +61,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/programowanieobiektowe/metody/Metody.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="501">
-              <caret line="39" column="14" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
+            <state relative-caret-position="75">
+              <caret line="28" column="42" lean-forward="true" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -166,7 +165,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540877406602" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540882140334" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -278,7 +277,7 @@
       <workItem from="1540243749530" duration="10000" />
       <workItem from="1540707985198" duration="683000" />
       <workItem from="1540789246702" duration="906000" />
-      <workItem from="1540876023047" duration="1193000" />
+      <workItem from="1540876023047" duration="1532000" />
     </task>
     <task id="LOCAL-00001" summary="static metod">
       <created>1540789611760</created>
@@ -287,11 +286,18 @@
       <option name="project" value="LOCAL" />
       <updated>1540789611770</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="metody">
+      <created>1540877433245</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1540877433245</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10760000" />
+    <option name="totallyTimeSpent" value="11099000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1035" y="60" width="876" height="999" extended-state="0" />
@@ -335,7 +341,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="static metod" />
-    <option name="LAST_COMMIT_MESSAGE" value="static metod" />
+    <MESSAGE value="metody" />
+    <option name="LAST_COMMIT_MESSAGE" value="metody" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/podstawy/Podstawy.java">
@@ -432,8 +439,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/programowanieobiektowe/metody/Metody.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="501">
-          <caret line="39" column="14" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
+        <state relative-caret-position="75">
+          <caret line="28" column="42" lean-forward="true" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
         </state>
       </provider>
     </entry>
