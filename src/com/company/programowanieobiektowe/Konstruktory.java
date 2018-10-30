@@ -36,9 +36,9 @@ class Punkt{
 
     }
 
-    Punkt(int pierwszy, int drugi){
-        System.out.println("wywołano konstruktor z dwoma parametrami");
-        x = pierwszy;
-        y = drugi;
+    Punkt(int x, int y) {
+
+        this.x = x;
+        this.y = y;
     }
 }
