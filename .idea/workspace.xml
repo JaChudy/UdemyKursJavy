@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf7fa716-8736-4d59-9d73-3402b53a21a4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/programowanieobiektowe/enkapsulacja/Enkapsulacja.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/programowanieobiektowe/referencje/Referencje.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -30,26 +30,26 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="17" />
+          <entry key="java" value="18" />
           <entry key="md" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="17" />
+          <entry key="JAVA" value="18" />
           <entry key="Markdown" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="3138" />
-          <entry key="txt" value="58" />
+          <entry key="java" value="3420" />
+          <entry key="txt" value="73" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3138" />
-          <entry key="PLAIN_TEXT" value="58" />
+          <entry key="JAVA" value="3420" />
+          <entry key="PLAIN_TEXT" value="73" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -61,10 +61,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/programowanieobiektowe/enkapsulacja/Enkapsulacja.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/programowanieobiektowe/referencje/Referencje.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
-              <caret line="24" column="51" selection-start-line="24" selection-start-column="51" selection-end-line="24" selection-end-column="51" />
+            <state relative-caret-position="450">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
             </state>
           </provider>
         </entry>
@@ -102,6 +102,7 @@
         <option value="$PROJECT_DIR$/src/com/company/programowanieobiektowe/videokursy/Test.java" />
         <option value="$PROJECT_DIR$/src/com/company/programowanieobiektowe/newpackage/NewClass.java" />
         <option value="$PROJECT_DIR$/src/com/company/programowanieobiektowe/enkapsulacja/Enkapsulacja.java" />
+        <option value="$PROJECT_DIR$/src/com/company/programowanieobiektowe/referencje/Referencje.java" />
       </list>
     </option>
   </component>
@@ -150,22 +151,6 @@
               <item name="company" type="462c0819:PsiDirectoryNode" />
               <item name="programowanieobiektowe" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Udemy_Java_Od_Podstaw" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Udemy_Java_Od_Podstaw" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="company" type="462c0819:PsiDirectoryNode" />
-              <item name="programowanieobiektowe" type="462c0819:PsiDirectoryNode" />
-              <item name="newpackage" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Udemy_Java_Od_Podstaw" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Udemy_Java_Od_Podstaw" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="company" type="462c0819:PsiDirectoryNode" />
-              <item name="programowanieobiektowe" type="462c0819:PsiDirectoryNode" />
-              <item name="videokursy" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -178,7 +163,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541197237922" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541197744583" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -192,26 +177,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Enkapsulacja">
+  <component name="RunManager" selected="Application.Referencje">
     <configuration name="Enkapsulacja" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.programowanieobiektowe.enkapsulacja.Enkapsulacja" />
       <module name="Udemy_Java_Od_Podstaw" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.company.programowanieobiektowe.enkapsulacja.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Konstruktory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.programowanieobiektowe.Konstruktory" />
-      <module name="Udemy_Java_Od_Podstaw" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.programowanieobiektowe.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -245,6 +217,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Referencje" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.programowanieobiektowe.referencje.Referencje" />
+      <module name="Udemy_Java_Od_Podstaw" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.programowanieobiektowe.referencje.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Statyczność" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.programowanieobiektowe.statyczność.Statyczność" />
       <module name="Udemy_Java_Od_Podstaw" />
@@ -259,19 +244,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Konstruktory" />
       <item itemvalue="Application.Metody" />
       <item itemvalue="Application.Statyczność" />
       <item itemvalue="Application.NewClass" />
       <item itemvalue="Application.Enkapsulacja" />
+      <item itemvalue="Application.Referencje" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Referencje" />
         <item itemvalue="Application.Enkapsulacja" />
         <item itemvalue="Application.NewClass" />
         <item itemvalue="Application.Statyczność" />
         <item itemvalue="Application.Metody" />
-        <item itemvalue="Application.Konstruktory" />
       </list>
     </recent_temporary>
   </component>
@@ -292,7 +277,7 @@
       <workItem from="1540789246702" duration="906000" />
       <workItem from="1540876023047" duration="1800000" />
       <workItem from="1541140414705" duration="793000" />
-      <workItem from="1541194980280" duration="2154000" />
+      <workItem from="1541194980280" duration="2749000" />
     </task>
     <task id="LOCAL-00001" summary="static metod">
       <created>1540789611760</created>
@@ -322,11 +307,18 @@
       <option name="project" value="LOCAL" />
       <updated>1541196049929</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="hermetyzacja">
+      <created>1541197261802</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1541197261802</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14314000" />
+    <option name="totallyTimeSpent" value="14909000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1022" y="67" width="876" height="999" extended-state="0" />
@@ -373,7 +365,8 @@
     <MESSAGE value="metody" />
     <MESSAGE value="przeciążanie metod" />
     <MESSAGE value="import" />
-    <option name="LAST_COMMIT_MESSAGE" value="import" />
+    <MESSAGE value="hermetyzacja" />
+    <option name="LAST_COMMIT_MESSAGE" value="hermetyzacja" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/podstawy/Podstawy.java">
@@ -505,8 +498,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/programowanieobiektowe/enkapsulacja/Enkapsulacja.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="24" column="51" selection-start-line="24" selection-start-column="51" selection-end-line="24" selection-end-column="51" />
+        <state relative-caret-position="420">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/programowanieobiektowe/referencje/Referencje.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
     </entry>
