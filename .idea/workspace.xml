@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf7fa716-8736-4d59-9d73-3402b53a21a4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/programowanieobiektowe/referencje/Referencje2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/programowanieobiektowe/referencje/Referencje3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/programowanieobiektowe/referencje/Referencje3.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,26 +31,26 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="19" />
+          <entry key="java" value="20" />
           <entry key="md" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="19" />
+          <entry key="JAVA" value="20" />
           <entry key="Markdown" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="3649" />
-          <entry key="txt" value="84" />
+          <entry key="java" value="3891" />
+          <entry key="txt" value="87" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3649" />
-          <entry key="PLAIN_TEXT" value="84" />
+          <entry key="JAVA" value="3891" />
+          <entry key="PLAIN_TEXT" value="87" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -61,20 +61,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/programowanieobiektowe/referencje/Referencje.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/programowanieobiektowe/referencje/Referencje2.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/programowanieobiektowe/referencje/Referencje3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+            <state relative-caret-position="150">
+              <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -114,6 +105,7 @@
         <option value="$PROJECT_DIR$/src/com/company/programowanieobiektowe/enkapsulacja/Enkapsulacja.java" />
         <option value="$PROJECT_DIR$/src/com/company/programowanieobiektowe/referencje/Referencje.java" />
         <option value="$PROJECT_DIR$/src/com/company/programowanieobiektowe/referencje/Referencje2.java" />
+        <option value="$PROJECT_DIR$/src/com/company/programowanieobiektowe/referencje/Referencje3.java" />
       </list>
     </option>
   </component>
@@ -191,7 +183,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541279306078" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541279653165" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -205,7 +197,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Referencje2">
+  <component name="RunManager" selected="Application.Referencje3">
     <configuration name="Enkapsulacja" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.programowanieobiektowe.enkapsulacja.Enkapsulacja" />
       <module name="Udemy_Java_Od_Podstaw" />
@@ -258,12 +250,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Statyczność" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.programowanieobiektowe.statyczność.Statyczność" />
+    <configuration name="Referencje3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.programowanieobiektowe.referencje.Referencje3" />
       <module name="Udemy_Java_Od_Podstaw" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.programowanieobiektowe.statyczność.*" />
+          <option name="PATTERN" value="com.company.programowanieobiektowe.referencje.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -272,19 +264,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Statyczność" />
       <item itemvalue="Application.NewClass" />
       <item itemvalue="Application.Enkapsulacja" />
       <item itemvalue="Application.Referencje" />
       <item itemvalue="Application.Referencje2" />
+      <item itemvalue="Application.Referencje3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Referencje3" />
         <item itemvalue="Application.Referencje2" />
         <item itemvalue="Application.Referencje" />
         <item itemvalue="Application.Enkapsulacja" />
         <item itemvalue="Application.NewClass" />
-        <item itemvalue="Application.Statyczność" />
       </list>
     </recent_temporary>
   </component>
@@ -306,7 +298,7 @@
       <workItem from="1540876023047" duration="1800000" />
       <workItem from="1541140414705" duration="793000" />
       <workItem from="1541194980280" duration="2800000" />
-      <workItem from="1541278637148" duration="481000" />
+      <workItem from="1541278637148" duration="1006000" />
     </task>
     <task id="LOCAL-00001" summary="static metod">
       <created>1540789611760</created>
@@ -350,11 +342,18 @@
       <option name="project" value="LOCAL" />
       <updated>1541197763949</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="referencje cd">
+      <created>1541279322543</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1541279322543</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15441000" />
+    <option name="totallyTimeSpent" value="15966000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="979" y="67" width="876" height="999" extended-state="0" />
@@ -403,7 +402,8 @@
     <MESSAGE value="import" />
     <MESSAGE value="hermetyzacja" />
     <MESSAGE value="referencje" />
-    <option name="LAST_COMMIT_MESSAGE" value="referencje" />
+    <MESSAGE value="referencje cd" />
+    <option name="LAST_COMMIT_MESSAGE" value="referencje cd" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/podstawy/Podstawy.java">
@@ -549,8 +549,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/programowanieobiektowe/referencje/Referencje2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+        <state relative-caret-position="465">
+          <caret line="31" column="34" lean-forward="true" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/programowanieobiektowe/referencje/Referencje3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
         </state>
       </provider>
     </entry>
