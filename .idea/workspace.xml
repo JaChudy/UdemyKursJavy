@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf7fa716-8736-4d59-9d73-3402b53a21a4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/company/programowanieobiektowe/cwiczenia/Butelka.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/programowanieobiektowe/referencje/Referencje3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/programowanieobiektowe/referencje/Referencje3.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,25 +31,25 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="20" />
+          <entry key="java" value="21" />
           <entry key="md" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="20" />
+          <entry key="JAVA" value="21" />
           <entry key="Markdown" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="3891" />
+          <entry key="java" value="4232" />
           <entry key="txt" value="87" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3891" />
+          <entry key="JAVA" value="4232" />
           <entry key="PLAIN_TEXT" value="87" />
         </counts>
       </usages-collector>
@@ -61,11 +61,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/programowanieobiektowe/referencje/Referencje3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+            <state relative-caret-position="165">
+              <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/programowanieobiektowe/cwiczenia/Butelka.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -106,6 +115,7 @@
         <option value="$PROJECT_DIR$/src/com/company/programowanieobiektowe/referencje/Referencje.java" />
         <option value="$PROJECT_DIR$/src/com/company/programowanieobiektowe/referencje/Referencje2.java" />
         <option value="$PROJECT_DIR$/src/com/company/programowanieobiektowe/referencje/Referencje3.java" />
+        <option value="$PROJECT_DIR$/src/com/company/programowanieobiektowe/cwiczenia/Butelka.java" />
       </list>
     </option>
   </component>
@@ -163,6 +173,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="company" type="462c0819:PsiDirectoryNode" />
               <item name="programowanieobiektowe" type="462c0819:PsiDirectoryNode" />
+              <item name="cwiczenia" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Udemy_Java_Od_Podstaw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Udemy_Java_Od_Podstaw" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="programowanieobiektowe" type="462c0819:PsiDirectoryNode" />
               <item name="referencje" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -183,7 +201,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541279653165" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541328639859" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -197,13 +215,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Referencje3">
-    <configuration name="Enkapsulacja" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.programowanieobiektowe.enkapsulacja.Enkapsulacja" />
+  <component name="RunManager" selected="Application.Butelka">
+    <configuration name="Butelka" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.programowanieobiektowe.cwiczenia.Butelka" />
       <module name="Udemy_Java_Od_Podstaw" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.programowanieobiektowe.enkapsulacja.*" />
+          <option name="PATTERN" value="com.company.programowanieobiektowe.cwiczenia.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -211,12 +229,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NewClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.programowanieobiektowe.newpackage.NewClass" />
+    <configuration name="Enkapsulacja" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.programowanieobiektowe.enkapsulacja.Enkapsulacja" />
       <module name="Udemy_Java_Od_Podstaw" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.programowanieobiektowe.newpackage.*" />
+          <option name="PATTERN" value="com.company.programowanieobiektowe.enkapsulacja.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -264,19 +282,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.NewClass" />
       <item itemvalue="Application.Enkapsulacja" />
       <item itemvalue="Application.Referencje" />
       <item itemvalue="Application.Referencje2" />
       <item itemvalue="Application.Referencje3" />
+      <item itemvalue="Application.Butelka" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Butelka" />
         <item itemvalue="Application.Referencje3" />
         <item itemvalue="Application.Referencje2" />
         <item itemvalue="Application.Referencje" />
         <item itemvalue="Application.Enkapsulacja" />
-        <item itemvalue="Application.NewClass" />
       </list>
     </recent_temporary>
   </component>
@@ -298,7 +316,7 @@
       <workItem from="1540876023047" duration="1800000" />
       <workItem from="1541140414705" duration="793000" />
       <workItem from="1541194980280" duration="2800000" />
-      <workItem from="1541278637148" duration="1006000" />
+      <workItem from="1541278637148" duration="2289000" />
     </task>
     <task id="LOCAL-00001" summary="static metod">
       <created>1540789611760</created>
@@ -349,11 +367,18 @@
       <option name="project" value="LOCAL" />
       <updated>1541279322543</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="referencje cd">
+      <created>1541279685428</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1541279685428</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15966000" />
+    <option name="totallyTimeSpent" value="17249000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="979" y="67" width="876" height="999" extended-state="0" />
@@ -556,8 +581,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/programowanieobiektowe/referencje/Referencje3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        <state relative-caret-position="165">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/programowanieobiektowe/cwiczenia/Butelka.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
         </state>
       </provider>
     </entry>
