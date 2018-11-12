@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf7fa716-8736-4d59-9d73-3402b53a21a4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/dziedziczenie/Dziedziczenie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/dziedziczenie/potwory/Potwor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/dziedziczenie/potwory/Szkielet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/dziedziczenie/potwory/Zombie.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/dziedziczenie/Dziedziczenie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/dziedziczenie/Dziedziczenie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/dziedziczenie/potwory/Potwor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/dziedziczenie/potwory/Potwor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/dziedziczenie/potwory/Szkielet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/dziedziczenie/potwory/Szkielet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/dziedziczenie/potwory/Zombie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/dziedziczenie/potwory/Zombie.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,14 +46,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="4927" />
-          <entry key="txt" value="128" />
+          <entry key="java" value="5146" />
+          <entry key="txt" value="150" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4927" />
-          <entry key="PLAIN_TEXT" value="128" />
+          <entry key="JAVA" value="5146" />
+          <entry key="PLAIN_TEXT" value="150" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -83,20 +82,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/dziedziczenie/Dziedziczenie.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+            <state relative-caret-position="225">
+              <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/dziedziczenie/potwory/Potwor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="405">
+              <caret line="27" column="70" selection-start-line="27" selection-start-column="70" selection-end-line="27" selection-end-column="70" />
             </state>
           </provider>
         </entry>
@@ -104,8 +103,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/dziedziczenie/potwory/Szkielet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="60">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -113,8 +112,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/dziedziczenie/potwory/Zombie.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="45">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -157,8 +156,9 @@
         <option value="$PROJECT_DIR$/src/com/company/programowanieobiektowe/referencje/Referencje3.java" />
         <option value="$PROJECT_DIR$/src/com/company/programowanieobiektowe/cwiczenia/Butelka.java" />
         <option value="$PROJECT_DIR$/src/com/company/dziedziczenie/potwory/Zombie.java" />
-        <option value="$PROJECT_DIR$/src/com/company/dziedziczenie/potwory/Potwor.java" />
+        <option value="$PROJECT_DIR$/src/com/company/dziedziczenie/potwory/Szkielet.java" />
         <option value="$PROJECT_DIR$/src/com/company/dziedziczenie/Dziedziczenie.java" />
+        <option value="$PROJECT_DIR$/src/com/company/dziedziczenie/potwory/Potwor.java" />
       </list>
     </option>
   </component>
@@ -259,7 +259,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542028886114" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542030015784" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -273,7 +273,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Butelka">
+  <component name="RunManager" selected="Application.Dziedziczenie">
     <configuration name="Butelka" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.programowanieobiektowe.cwiczenia.Butelka" />
       <module name="Udemy_Java_Od_Podstaw" />
@@ -287,12 +287,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Enkapsulacja" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.programowanieobiektowe.enkapsulacja.Enkapsulacja" />
+    <configuration name="Dziedziczenie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.dziedziczenie.Dziedziczenie" />
       <module name="Udemy_Java_Od_Podstaw" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.programowanieobiektowe.enkapsulacja.*" />
+          <option name="PATTERN" value="com.company.dziedziczenie.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -340,19 +340,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Enkapsulacja" />
       <item itemvalue="Application.Referencje" />
       <item itemvalue="Application.Referencje2" />
       <item itemvalue="Application.Referencje3" />
       <item itemvalue="Application.Butelka" />
+      <item itemvalue="Application.Dziedziczenie" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Dziedziczenie" />
         <item itemvalue="Application.Butelka" />
         <item itemvalue="Application.Referencje3" />
         <item itemvalue="Application.Referencje2" />
         <item itemvalue="Application.Referencje" />
-        <item itemvalue="Application.Enkapsulacja" />
       </list>
     </recent_temporary>
   </component>
@@ -375,7 +375,7 @@
       <workItem from="1541140414705" duration="793000" />
       <workItem from="1541194980280" duration="2800000" />
       <workItem from="1541278637148" duration="4680000" />
-      <workItem from="1542028373889" duration="1087000" />
+      <workItem from="1542028373889" duration="1580000" />
     </task>
     <task id="LOCAL-00001" summary="static metod">
       <created>1540789611760</created>
@@ -447,11 +447,18 @@
       <option name="project" value="LOCAL" />
       <updated>1541490066225</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Moster class">
+      <created>1542029526205</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1542029526205</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20727000" />
+    <option name="totallyTimeSpent" value="21220000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="979" y="67" width="876" height="999" extended-state="0" />
@@ -466,7 +473,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33026466" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33026466" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -502,7 +509,8 @@
     <MESSAGE value="referencje" />
     <MESSAGE value="referencje cd" />
     <MESSAGE value="exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="exercise" />
+    <MESSAGE value="Moster class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Moster class" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/podstawy/Podstawy.java">
@@ -667,31 +675,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/dziedziczenie/potwory/Szkielet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/dziedziczenie/potwory/Zombie.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/dziedziczenie/potwory/Potwor.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/dziedziczenie/potwory/Szkielet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/dziedziczenie/Dziedziczenie.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        <state relative-caret-position="225">
+          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/dziedziczenie/potwory/Potwor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="70" selection-start-line="27" selection-start-column="70" selection-end-line="27" selection-end-column="70" />
         </state>
       </provider>
     </entry>

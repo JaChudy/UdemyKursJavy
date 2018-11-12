@@ -1,4 +1,5 @@
 package com.company.dziedziczenie.potwory;
 
-public class Zombie {
+public class Zombie extends Potwor{
+
 }

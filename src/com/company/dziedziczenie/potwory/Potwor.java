@@ -14,4 +14,17 @@ public class Potwor {
 
         System.out.println("To jest metoda ataku z klasy potwór");
     }
+
+    public Potwor(){
+
+        System.out.println("Domyślny konstruktor z klasy Potwór");
+
+    }
+
+    public Potwor(double predkoscChodzenia, double zywotnosc){
+        this.predkoscChodzenia = predkoscChodzenia;
+        this.zywotnosc = zywotnosc;
+
+        System.out.println("Dwuargumentowy konstruktor klasy Potwór");
+    }
 }
