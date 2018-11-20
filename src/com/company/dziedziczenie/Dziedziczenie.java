@@ -10,15 +10,9 @@ public class Dziedziczenie {
 
         // Potwór  -> Zombie, szkielet
 
-        Potwor p = new Potwor(10, 1000);
-        System.out.println(p.predkoscChodzenia);
-
-        Szkielet s = new Szkielet();
-        Zombie z = new Zombie();
+        Potwor p = new Szkielet(10, 1000);
 
 
-
-        p.atakuj();
 
     }
 }

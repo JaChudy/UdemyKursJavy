@@ -10,6 +10,9 @@ public class Potwor {
         /*
 
 
+
+
+
          */
 
         System.out.println("To jest metoda ataku z klasy potwór");
